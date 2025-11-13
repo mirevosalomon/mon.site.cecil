@@ -10,7 +10,7 @@ blocks:
       du code et du design.  
       Construit avec [Twig](https://twig.symfony.com), [Tailwind CSS](https://tailwindcss.com) et la puissance 
       du générateur statique [Cecil](https://cecil.app).
-     image: static/uploads/4.jpg
+     image: uploads/4.jpg
 
   - name: cta
     links:
