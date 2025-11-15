@@ -11,7 +11,7 @@ author:
   name: Mirevo Mulemberi Salomon
   url: https://github.com/mirevosalomon
 
-image: og-card.png   # Tu pourras remplacer par ton image quand tu veux
+  image: /uploads/4.jpg # Tu pourras remplacer par ton image quand tu veux
 
 menus:
   main:
