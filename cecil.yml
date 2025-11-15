@@ -31,7 +31,7 @@ menus:
       title: Contact
       url: /contact/
 
-logo: logo.png   # Ton logo (conserve le fichier actuel)
+logo: /uploads/4.jpg # Ton logo (conserve le fichier actuel)
 
 sidebar:
   - Développement Web
